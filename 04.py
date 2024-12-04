@@ -55,3 +55,6 @@ for i, row in enumerate(c):
     for j, a in enumerate(row):
         counter += prestej_xmas(i,j,a)
 print(counter)
+
+
+#aaaa
